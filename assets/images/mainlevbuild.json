@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"RF_Catacombs_v1.0\/mainlevbuild.png",
+ "imageheight":640,
+ "imagewidth":1024,
+ "margin":0,
+ "name":"mainlevbuild",
+ "spacing":0,
+ "tilecount":640,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}
